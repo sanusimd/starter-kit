@@ -1,2 +1,2 @@
-# starter-kit
+# Starter-kit
 Starter Kit (SASS)
