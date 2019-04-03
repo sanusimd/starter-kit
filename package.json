@@ -1,0 +1,14 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "starter kits for sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "'sanusi'",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}

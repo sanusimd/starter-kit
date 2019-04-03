@@ -1,0 +1,28 @@
+/*
+Turquoise #42f2f7
+Maximum Blue #46acc2
+
+*/
+*,
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font-size: 62.25%; }
+
+body {
+  box-sizing: border-box; }
+
+body {
+  font-family: 'lato', sans-serif;
+  line-height: 1.7;
+  color: #777;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.heading {
+  font-size: 4rem; }
